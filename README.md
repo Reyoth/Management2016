@@ -5,8 +5,9 @@ Analyse de la gestion de nintendo
 * Vidéos
   * Nintendo switch et stratégie : https://www.youtube.com/watch?v=Pzll9Ey50MA 
   * Recap nintendo 2015-2016 : https://www.youtube.com/watch?v=0OZk7DqO5AM
+  * Histoire de Nintendo : https://www.youtube.com/watch?v=dlry5wqS_Lk
   * Critique de l'univers du jeu vidéo en général : https://www.youtube.com/channel/UCmhjKRlh8KQrDcAEBr-_pvA/videos
-* site web
+* Site web
   * nintendo japon : https://www.nintendo.co.jp/corporate/en/index.html
   * nintendo us : http://www.nintendo.com/corp/index.jsp
   * nintendo.be : http://www.nintendo.be/fr/Societe/Societe-625946.html
