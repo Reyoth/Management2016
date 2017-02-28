@@ -18,3 +18,13 @@ Analyse de la gestion de nintendo
 * Documents
   * histoire en anglais : https://www.nintendo.co.jp/corporate/en/history/index.html
   * histoire en français plus détaillée : http://www.nintendo.be/fr/Societe/L-Histoire-de-Nintendo/L-Histoire-Nintendo-625945.html
+
+## Liste des charges
+
+* Type d’entreprise (selon la typologie du cours) : Etienne
+* Analyse de l’environnement (micro, macro) : Farid
+* Chiffres clés (volume d’activités, chiffre d’affaires, rentabilité) : Michael/Usman
+* Stratégie(utilisationd’unmodèledu cours) : Gerard
+* Organisation(organigramme), valeurset culture : Simon
+* Résultats (évolution de l’activité) : Usman/Michael
+* Analyse critique & recommandations : Groupe
