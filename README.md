@@ -15,3 +15,6 @@ Analyse de la gestion de nintendo
   * Nintendo.be : http://www.nintendo.be/fr/Societe/Societe-625946.html
 * Articles
   * http://www.gamelove.com/news-actu/nintendo-switch-big-n-est-confiant-vis-a-vis-des-editeurs-tiers-149229
+* Documents
+  * histoire en anglais : https://www.nintendo.co.jp/corporate/en/history/index.html
+  * histoire en français plus détaillée : http://www.nintendo.be/fr/Societe/L-Histoire-de-Nintendo/L-Histoire-Nintendo-625945.html
