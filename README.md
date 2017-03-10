@@ -19,6 +19,9 @@ Analyse de la gestion de nintendo
   * histoire en anglais : https://www.nintendo.co.jp/corporate/en/history/index.html
   * histoire en français plus détaillée : http://www.nintendo.be/fr/Societe/L-Histoire-de-Nintendo/L-Histoire-Nintendo-625945.html
 
+* site des stat
+  * https://www.statista.com/markets/417/topic/478/video-games-gaming/
+
 ## Liste des charges
 
 * Type d’entreprise (selon la typologie du cours) : Etienne
